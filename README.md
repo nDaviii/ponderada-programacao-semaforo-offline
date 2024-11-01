@@ -1,6 +1,6 @@
 # Ponderada de Programação
 
-&nbsp;&nbsp;&nbsp;&nbsp;Este repositório foi criado para o desenvolvimento da atividade de programação da semana 01, do módulo 4, do aluno Davi Nascimento de Jesus. A atividade foi feita sob a orientação da Prof. Me. Kizzy Terra. A atividade pode ser encontrada abaixo:
+&nbsp;&nbsp;&nbsp;&nbsp;Este repositório foi criado para o desenvolvimento da atividade de programação da semana 03, do módulo 4, do aluno Davi Nascimento de Jesus. A atividade foi feita sob a orientação da Prof. Me. Kizzy Terra. A atividade pode ser encontrada abaixo:
 
 ## Descrição do projeto
 
@@ -14,7 +14,7 @@
 
 <sub>Figura 1 - Montagem vista de frente ligada</sub>
 
-![alt text](assets/vista-frente.png)
+![Montagem vista de frente ligada](assets/vista-frontal.jpg)
 
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 
@@ -24,7 +24,7 @@
 
 <sub>Figura 2 - Montagem vista na lateral ligada</sub>
 
-![alt text](assets/vista-lateral.png)
+![Montagem vista na lateral ligada](assets/vista-lateral.jpg)
 
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 
@@ -34,7 +34,7 @@
 
 <sub>Figura 3 - Montagem vista de cima ligada</sub>
 
-![alt text](assets/vista-cima.png)
+![Montagem vista de cima ligada](assets/vista-cima.jpg)
 
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 
@@ -44,7 +44,7 @@
 
 <sub>Figura 4 - Montagem da sinalização de pedestres ligada</sub>
 
-![alt text](assets/vista-semaforo-pedestres.png)
+![Montagem da sinalização de pedestres ligada](assets/vista-semaforo-pedestres.jpg)
 
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 
